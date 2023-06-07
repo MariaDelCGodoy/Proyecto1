@@ -10,7 +10,9 @@ Ingresar como administrador en *Windows PowerShell**  -> PS C:\Windows\system32>
 
 
 Get-ExecutionPolicy	-> Restricted	
+
 Set-ExecutionPolicy RemoteSigned
+
 S
 
 
