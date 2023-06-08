@@ -28,3 +28,18 @@ python.exe -m pip install --upgrade pip
 
 python manage.py runserver
 
+
+
+
+
+:collision: ------- mas adelante -------  :collision:
+
+
+> python manage.py migrate
+
+> pip install psycopg2 
+
+> python manage.py makemigrations
+
+> python manage.py migrate
+
